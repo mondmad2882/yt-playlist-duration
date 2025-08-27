@@ -21,4 +21,4 @@ No more manual counting or searching for a website to paste the playlist url —
 ## ⚡ Installation
 1. Clone this repo or download the ZIP  
    ```bash
-   git clone <your-repo-link>
+   git clone https://github.com/mondmad2882/yt-playlist-duration.git
